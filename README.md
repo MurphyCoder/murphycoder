@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Brayan Murphy Crespo Espinoza</h1>
-<h3 align="center">A passionate frontend developer from Perú</h3>
-
 # 💫 About Me:
 
 <h1 align="center">Hi 👋, I'm Brayan Murphy <br>Software Engineer | FullStack Developer 💛👨🏻‍💻 | Indie App Developer 📱</h1><br><br>I love creating new things ⚡<br>Turning imagination into reality 🚀
